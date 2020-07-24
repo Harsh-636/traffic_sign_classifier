@@ -1,4 +1,4 @@
-# trafficsignclassifier
+# Traffic Sign Classifier App
 
 A new Flutter application which can classify traffic signs into their types. 
 - Built a CNN model, trained on the GTSRB image dataset and implemented in Flutter using TensorflowLite
